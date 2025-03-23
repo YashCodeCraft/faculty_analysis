@@ -1,0 +1,200 @@
+Faculty_ID,Faculty_Name,Department,Courses_Taught,Class_Size,Student_Feedback_Score,Course_Completion_Rate,Teaching_Hours_Per_Week,Semester,Average_Student_Marks,Pass_Percentage
+FAC120,Cris Rubrow,Computer Science,4,46,3.79,85.18,13,1,100,99.7
+FAC011,Alasdair Licquorish,Computer Science,5,48,4.82,68.89,20,1,100,90.31
+FAC164,Ellen Swinglehurst,Mechanical Engineering,1,31,3.6,78.22,5,1,96.73,88.77
+FAC109,Cindie Klosterman,Computer Science,1,42,4.84,84.4,15,1,100,93.84
+FAC043,Arne Vitte,Mechanical Engineering,3,71,4.53,57.84,15,1,88.66,88.43
+FAC074,Brande Guild,Civil,5,81,2.85,76.84,12,1,71.89,66.53
+FAC079,Brinna Fowler,Civil,1,51,4.27,68.9,5,1,99.9,100
+FAC104,Christel Devonshire,Civil,2,58,3.89,63.72,18,1,78.99,77.8
+FAC103,Chilton Assur,Mechanical Engineering,3,69,3.36,61.24,17,1,86.04,76.73
+FAC157,Edgar Gantz,Civil,5,66,3.53,50,12,1,100,99.15
+FAC134,Delora Cudbertson,Mechanical Engineering,5,62,3.64,82.89,9,1,69.25,65.47
+FAC039,Arlie Gilbert,Civil,1,85,4.37,84.34,5,1,67.65,67.63
+FAC180,Fanchon Kirdsch,Electronics,5,47,4.45,50,9,1,92.32,90.99
+FAC050,Bailey Goosnell,Electronics,2,83,4.07,85.15,20,1,100,90.08
+FAC166,Emery Bluck,Computer Science,2,25,2.81,59.57,11,1,84.83,80.63
+FAC003,Ada Allawy,Electronics,2,65,3.96,74.53,19,1,74.79,71.09
+FAC182,Felizio Greenrodd,Mechanical Engineering,2,47,4.86,77.56,20,1,81.84,85.8
+FAC146,Doralyn Balston,Electronics,2,72,3.69,64.21,16,1,100,100
+FAC094,Catherin Tossell,Civil,1,100,3.84,89.45,10,1,80.62,74.39
+FAC071,Bobbe Giggs,Electronics,4,49,2.84,85.54,11,1,67.66,68.97
+FAC034,Antin Pettican,Computer Science,5,67,3.37,53.92,11,1,88.47,90.4
+FAC047,Augustine Pendell,Computer Science,1,48,2.91,64.06,11,1,90.22,84.13
+FAC133,Delila Loukes,Civil,3,100,3.36,67.75,19,1,81.37,81.31
+FAC176,Essie Crispe,Mechanical Engineering,3,79,3.03,68.99,20,1,78.09,76.34
+FAC056,Bax Grinham,Computer Science,2,54,3.09,58.63,13,1,100,100
+FAC148,Dorthea Pamphilon,Computer Science,2,41,4.8,69.73,17,1,88.45,80.35
+FAC172,Ermengarde Schukert,Mechanical Engineering,2,95,5,91.33,7,2,100,94.51
+FAC155,Dynah Kubasek,Electronics,4,46,3.84,65.31,20,2,65.58,62.88
+FAC072,Bogart Cervantes,Electronics,5,44,3.29,81.46,5,2,64.86,68.43
+FAC117,Cosetta Simmank,Electronics,2,53,2.99,76.44,14,2,88.83,83.26
+FAC022,Alta Conre,Civil,3,79,3.9,76.78,11,2,100,98.54
+FAC040,Arlyne Bartolomucci,Computer Science,2,71,4.37,90.19,13,2,100,100
+FAC122,Cyb Grinaway,Mechanical Engineering,4,62,2.65,53.19,7,2,81.61,73.89
+FAC199,Gay Low,Electronics,5,74,3.49,70.91,8,2,97.31,100
+FAC060,Beltran Broe,Computer Science,2,24,4.37,78.84,12,2,78.84,79.61
+FAC073,Brande Beilby,Mechanical Engineering,2,99,2.76,90.34,9,2,66.64,57.69
+FAC015,Alex Clougher,Electronics,4,59,3.71,50,5,2,87.57,90.21
+FAC184,Filberte Jeanel,Mechanical Engineering,3,69,3.83,81.33,14,2,76.24,66.3
+FAC053,Barr Trevna,Electronics,3,58,2.52,55.69,20,2,68.05,59.06
+FAC160,Eldredge Strond,Electronics,1,65,3.87,94.05,9,2,83.25,86.03
+FAC188,Flynn Bocke,Mechanical Engineering,5,91,3,50,18,2,80.51,75.05
+FAC196,Garfield Pauel,Computer Science,1,81,3.42,94.07,11,2,82.02,79.66
+FAC008,Adora Neenan,Civil,3,80,2.43,62.28,11,2,71.99,74.12
+FAC100,Chere Follacaro,Mechanical Engineering,2,53,3.1,63.36,5,2,100,100
+FAC130,Davina Strickland,Civil,1,39,4.16,73.09,14,2,100,100
+FAC031,Annamaria Danet,Mechanical Engineering,3,21,4.67,79.06,13,2,93.18,95.29
+FAC024,Amanda Lies,Computer Science,3,54,2.69,56.98,15,2,80.99,80.06
+FAC025,Anders Lessmare,Electronics,2,71,4.06,57.17,11,2,78.86,76.52
+FAC049,Babita Fehely,Mechanical Engineering,2,62,2.58,57.21,9,2,89.23,79.48
+FAC001,Aaron Gerrietz,Computer Science,5,71,4.2,71.56,13,2,95.08,98.63
+FAC127,Darcy Berrygun,Computer Science,2,34,2.9,58.03,9,2,67.26,58.64
+FAC054,Barrie Rigler,Civil,4,95,3.84,66.67,15,2,93.28,85.19
+FAC085,Cam Kynd,Mechanical Engineering,2,38,3.25,58.03,16,2,83.46,80.21
+FAC068,Blayne Stracey,Electronics,1,25,4.09,64.56,13,3,87.01,84.32
+FAC111,Claus Pennycock,Computer Science,4,87,2.85,66.19,19,3,74.73,68.45
+FAC142,Dody Bool,Computer Science,3,60,4.71,72.71,11,3,100,100
+FAC137,Dew Tebbs,Civil,3,66,2.68,56.89,6,3,91.68,83.74
+FAC101,Cherianne Sier,Computer Science,4,59,4.18,79.35,18,3,93.74,86.77
+FAC168,Emmet Romagosa,Electronics,1,87,2.55,58,5,3,69.23,70.75
+FAC125,Dalenna Guisby,Electronics,4,64,4.06,78.53,16,3,98.98,93.06
+FAC052,Barclay Lethardy,Civil,3,57,3.09,84.72,13,3,78.01,74.97
+FAC107,Chrisy Herche,Mechanical Engineering,1,57,3.25,85.12,11,3,77.95,68.7
+FAC097,Cayla Davidovici,Computer Science,5,53,3.38,51.14,18,3,96.72,90.62
+FAC076,Bren Maccrae,Electronics,1,58,4.9,69.98,12,3,69.61,64.86
+FAC002,Abra Deave,Mechanical Engineering,1,78,4.18,91.66,9,3,80.72,78.18
+FAC082,Bronson Likely,Civil,1,96,2.63,61.04,7,3,84.47,74.87
+FAC151,Drake Riggoll,Civil,1,32,4.67,92.16,16,3,74.22,68.44
+FAC181,Farra Burth,Computer Science,3,50,2.99,70.16,12,3,98.54,91.77
+FAC143,Domini O' Meara,Electronics,5,34,3.32,59.34,18,3,85.98,85.93
+FAC029,Anett Sanzio,Civil,4,39,4.3,74.78,19,3,83.36,79.25
+FAC150,Doug Youings,Computer Science,1,93,3.74,72.27,5,3,100,92.13
+FAC019,Alic Naile,Civil,1,40,3.08,85.57,19,3,74.32,73.75
+FAC078,Briggs Gyngyll,Mechanical Engineering,5,78,3.15,76.65,6,3,100,100
+FAC055,Bastien MacGorrie,Mechanical Engineering,3,47,4.32,74.18,13,3,91.23,83.28
+FAC027,Andrey Elders,Mechanical Engineering,4,54,3.76,76.28,9,3,69.81,64.23
+FAC016,Alexander Gaukrodge,Civil,3,79,3.01,53.93,8,3,99.94,92.7
+FAC159,Elana Jellis,Civil,2,47,4.81,75.13,12,3,89.81,87.37
+FAC185,Filippa Itzkov,Electronics,1,28,3.5,58.13,14,3,65.4,58.47
+FAC042,Arne Bellew,Electronics,5,80,4.4,50,6,3,89.24,84.71
+FAC161,Eleanor Redler,Electronics,5,49,4.45,80.74,10,3,89.44,80.58
+FAC110,Claiborne Bucknall,Computer Science,1,77,3.38,71.98,7,3,69.27,68.39
+FAC036,Anya Chipperfield,Mechanical Engineering,2,30,3.52,91.37,9,3,75.88,72.77
+FAC140,Dill Bottini,Civil,3,94,2.91,60.52,5,4,85.42,84.34
+FAC123,Dacy Gronowe,Electronics,4,99,3.25,70.28,6,4,88.83,91.01
+FAC193,Frederigo Westmerland,Computer Science,3,31,4.05,89.84,6,4,91.34,84.95
+FAC088,Carina Huet,Civil,5,96,3.41,60.16,13,4,93.01,96.17
+FAC099,Chelsey Eddolls,Electronics,3,89,3.71,55.02,13,4,90.48,92.98
+FAC171,Erina Nevill,Mechanical Engineering,1,87,4.91,79.86,12,4,90.27,93.46
+FAC154,Dulcie Cumpsty,Mechanical Engineering,4,93,3.51,69.85,18,4,100,100
+FAC173,Errick Sherel,Electronics,4,93,2.64,69.71,9,4,93.87,85.55
+FAC144,Dominique Cheales,Electronics,5,71,3.61,51.98,5,4,84.52,76.02
+FAC152,Dru Hovell,Civil,3,63,2.68,76.93,6,4,79.5,82.24
+FAC086,Camey Dinesen,Civil,4,45,3.87,50,18,4,70.8,73.44
+FAC132,Debi Scinelli,Electronics,5,78,2.66,50,16,4,61.44,56.07
+FAC141,Dino Rockell,Computer Science,4,78,3.02,50,6,4,82.47,78.57
+FAC067,Blaire Berndsen,Mechanical Engineering,2,24,4.49,59.76,5,4,78.15,81.05
+FAC032,Anneliese Duckers,Civil,3,94,4.99,88.49,16,4,96.53,89.85
+FAC069,Blondell Glanfield,Computer Science,3,82,3.67,82.51,16,4,97.05,96.02
+FAC116,Cornelius Dallyn,Mechanical Engineering,4,85,2.44,50,12,4,60.51,59.96
+FAC037,Archy Crus,Civil,1,97,3.93,80.16,8,4,93,90.5
+FAC041,Armstrong Brennans,Mechanical Engineering,5,69,2.4,58.44,12,4,75.82,80.46
+FAC006,Adella Dallmann,Computer Science,4,67,4.7,79.12,20,4,100,94.3
+FAC170,Ephrayim Doddemeade,Electronics,1,42,4.42,77.61,10,4,80.71,85.49
+FAC136,Desmund Nazaret,Computer Science,5,81,2.83,70.2,7,5,83.53,81.76
+FAC020,Allyn Coniam,Civil,3,26,3.99,87.51,18,5,95.93,98.37
+FAC096,Catlin Birdwistle,Mechanical Engineering,5,98,3.37,57.87,17,5,99.87,100
+FAC128,D'arcy Brahmer,Electronics,3,66,4.55,50.16,18,5,81.06,79.62
+FAC102,Chico Mungane,Mechanical Engineering,4,25,3.33,65.89,19,5,93.5,89.39
+FAC167,Emmalyn Glanester,Computer Science,1,35,4.2,65.93,10,5,88.84,90.64
+FAC080,Britteny Tutsell,Civil,3,58,4.94,69.62,13,5,96.36,90.3
+FAC012,Alaster Denniston,Civil,5,29,4.21,76.36,8,5,67.08,66.27
+FAC051,Ban Clineck,Computer Science,3,89,4.78,54.22,11,5,100,100
+FAC007,Adi Selly,Civil,1,73,3.48,73.67,17,5,86.94,84.57
+FAC014,Aleta Wadhams,Mechanical Engineering,5,43,4.87,82.4,12,5,76.76,71.49
+FAC059,Becca Rudham,Mechanical Engineering,1,89,4.71,92.18,8,5,88.38,81.21
+FAC194,Freeman Igounet,Computer Science,4,65,4.54,72.53,18,5,73.01,74.39
+FAC075,Breanne MacCaffrey,Computer Science,3,54,3.47,64.99,18,5,72.01,75.91
+FAC038,Arlen Carbry,Electronics,1,79,4.37,87.36,9,5,100,99.47
+FAC175,Esra Chasemore,Civil,1,84,4.61,92.79,8,5,89.62,83.92
+FAC139,Dietrich Ianniello,Civil,3,58,3.25,83.59,10,5,87,77.73
+FAC186,Flin Ricciardelli,Electronics,1,75,3.57,77.43,19,5,82.09,84.58
+FAC061,Beltran Hegden,Computer Science,2,56,5,76.01,7,5,98,91.4
+FAC026,Andrei Maddinon,Computer Science,3,51,2.8,76.09,11,5,68.39,61.1
+FAC065,Bill Wilder,Electronics,4,72,5,80.14,6,5,85.25,87.14
+FAC174,Esme Yanyshev,Computer Science,2,62,4.9,80.15,9,5,81.98,80.97
+FAC191,Freddie Ullett,Computer Science,3,80,3.89,83.01,10,5,94.03,85.46
+FAC121,Crista Blaszczynski,Mechanical Engineering,2,80,3.38,78.97,9,5,79.93,79.27
+FAC084,Cale Drohane,Mechanical Engineering,3,67,3.72,50.48,10,5,93.17,95.38
+FAC147,Doro Hiddersley,Mechanical Engineering,1,96,3.83,82.04,11,5,75.04,67.15
+FAC115,Cornelius Chaim,Mechanical Engineering,1,29,3.91,85.86,15,5,75.75,79.07
+FAC112,Clem Grey,Civil,1,29,4.93,74.16,10,5,88.76,83.79
+FAC118,Cosme Fley,Civil,5,25,4.43,64.21,6,5,89.19,87.46
+FAC063,Bent Yakuntzov,Mechanical Engineering,3,84,3.68,55.8,12,5,96.92,94.6
+FAC005,Adelaide Haseman,Civil,4,24,3.4,81.42,6,5,86.78,88.85
+FAC113,Coralie Tissington,Electronics,4,96,3.49,57.92,18,6,75.57,69.19
+FAC156,Earlie Lovick,Mechanical Engineering,1,42,4.27,92.45,18,6,77.04,79.76
+FAC070,Blondell Hanson,Mechanical Engineering,3,83,2.71,54.07,17,6,81.43,73.58
+FAC145,Donnie D'Costa,Civil,1,83,3.66,73.31,13,6,78.96,74.91
+FAC095,Cathi Rosenbaum,Civil,4,62,2.48,64.87,18,6,85.54,88.74
+FAC057,Bax Sames,Mechanical Engineering,4,92,3.33,77.4,13,6,83.02,87.08
+FAC124,Dag Skerman,Civil,5,24,4.04,50,5,6,81.32,80.48
+FAC106,Christy Spollen,Electronics,5,80,3.44,78.81,18,6,94.62,92.05
+FAC028,Anett Goldsmith,Mechanical Engineering,5,84,3.88,50,5,6,100,97.6
+FAC131,Deane Grabban,Civil,3,52,2.88,62.05,17,6,80.75,72.4
+FAC177,Etty Doyle,Mechanical Engineering,4,93,4.38,71.73,5,6,90.24,88.41
+FAC091,Carolyn Guiso,Computer Science,3,94,3.06,71.53,5,6,74.16,65.7
+FAC035,Anton Vasishchev,Mechanical Engineering,1,38,5,76.13,17,6,74.99,66.82
+FAC149,Dotti Jovanovic,Electronics,3,36,3.47,63.88,13,6,82.44,77.49
+FAC126,Dannel Jackways,Electronics,2,37,5,56.66,20,6,92.04,84.99
+FAC062,Benjamen Kaplin,Civil,3,24,4.44,85.82,10,6,96.39,86.47
+FAC087,Carey Dorling,Computer Science,4,73,3.2,61.92,17,6,69.8,72.04
+FAC169,Englebert Ellwand,Computer Science,2,79,2.82,54.22,8,6,80.49,83.36
+FAC189,Fran Boundley,Mechanical Engineering,4,47,2.75,65.37,5,6,80.49,74.39
+FAC197,Garrik Parkhouse,Electronics,5,70,2.99,50.61,16,6,69.71,61.66
+FAC093,Caterina Di Frisco,Computer Science,3,87,2.9,64.84,16,6,85.7,84.26
+FAC017,Alexandro Tetsall,Electronics,3,59,5,76.49,6,6,93.13,90.48
+FAC092,Casar Bernardt,Computer Science,5,80,2.34,51.23,9,7,66.58,68.86
+FAC098,Charley Sancias,Electronics,5,81,3.52,81.42,18,7,87.58,78.39
+FAC023,Alverta Killgus,Civil,5,59,2.23,50,15,7,77.15,80.16
+FAC044,Arney Balog,Electronics,5,49,3.89,59.22,9,7,87.24,81.22
+FAC004,Adam Landa,Computer Science,2,50,3.22,80.05,20,7,69.38,60.42
+FAC178,Evania Parkins,Mechanical Engineering,5,100,4.46,50,5,7,97.07,91.47
+FAC192,Freddy Bangle,Electronics,1,85,3.74,91.42,8,7,66.8,60.41
+FAC018,Alf Fruish,Civil,5,95,2.03,50,20,7,62.89,62.07
+FAC190,Frankie Phipson,Computer Science,2,86,3.41,75.05,15,7,100,100
+FAC114,Corina Gerard,Mechanical Engineering,1,36,3.51,95.36,14,7,95.44,94.35
+FAC048,Avie Caley,Computer Science,3,67,4.54,70.4,13,7,96.48,86.79
+FAC010,Alanson Tungate,Mechanical Engineering,5,35,2.9,61.85,5,7,76.7,78.89
+FAC162,Elinore Ledwich,Electronics,2,39,4.12,91.53,16,7,83.99,74.12
+FAC013,Aleen Fernanando,Mechanical Engineering,5,39,4.7,63.84,9,7,75.35,74.16
+FAC030,Angeline Dacca,Computer Science,3,82,4.61,56.46,15,7,72.76,64.22
+FAC119,Creigh Endrighi,Electronics,4,61,3.74,75.34,12,7,77.81,76.8
+FAC163,Elizabeth McGoogan,Computer Science,4,91,2.56,50.17,15,7,71.74,69.01
+FAC198,Gavrielle Ivakin,Civil,5,65,2.39,50,11,7,85.42,75.5
+FAC135,Desmond Dalbey,Electronics,2,64,2.69,61.5,17,8,97.64,98.91
+FAC153,Duff McCrea,Computer Science,3,83,2.72,58,6,8,71.81,67.93
+FAC081,Broddie D'Angeli,Civil,5,23,4.77,76.94,16,8,75.77,73.05
+FAC089,Carleton Beggin,Electronics,3,77,2.96,62,11,8,74.13,72.52
+FAC083,Burgess Tesoe,Civil,4,83,3.98,50,20,8,81.09,72.15
+FAC187,Florenza Schneider,Civil,3,75,2.51,68.47,18,8,94.57,97.63
+FAC129,Daryl Towne,Mechanical Engineering,5,97,3.56,58.9,5,8,64.55,68.87
+FAC183,Fey Willingham,Civil,2,59,5,81.59,19,8,100,100
+FAC058,Beatrix Kas,Computer Science,3,51,2.56,58.74,5,8,71.57,71.06
+FAC105,Christiano Egginton,Mechanical Engineering,3,28,3.45,80.3,18,8,100,96.77
+FAC108,Chucho Muscroft,Electronics,3,25,4.4,57.43,7,8,97.85,97.87
+FAC021,Aloysia Jery,Electronics,3,96,3.33,83.76,5,8,84.33,77.77
+FAC045,Arnie Czajka,Civil,5,53,3.23,50,12,8,70.75,69.42
+FAC046,Aubine Cescon,Mechanical Engineering,4,47,3.76,73.4,19,8,97.86,90.45
+FAC064,Berkly Gallafant,Electronics,5,73,3.83,50,16,8,66.37,68.93
+FAC138,Diahann Ollerenshaw,Mechanical Engineering,4,21,3.79,54.82,9,8,84.5,85.09
+FAC090,Carleton Heis,Mechanical Engineering,3,57,3.66,50,20,8,99.61,97.66
+FAC066,Binnie Sillito,Computer Science,5,83,3.26,71.23,9,8,100,90.42
+FAC165,Elli Stealey,Mechanical Engineering,4,82,4.71,84.71,10,8,73.73,78.18
+FAC158,Eduino Deadman,Electronics,4,55,3.99,69.61,7,8,95.61,87.21
+FAC179,Everett Shankland,Civil,4,27,3.82,83.08,15,8,100,100
+FAC009,Ailina Bourtoumieux,Mechanical Engineering,3,24,3.69,60.57,16,8,67.42,67.26
+FAC033,Annette Sprason,Civil,3,68,4.7,78.8,16,8,70.91,67.06
+FAC077,Brian Rummings,Mechanical Engineering,5,63,3.42,55.28,9,8,97.89,100
+FAC195,Galen Burgett,Mechanical Engineering,4,87,3.93,77.79,18,8,74.39,75.89

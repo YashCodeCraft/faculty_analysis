@@ -1,0 +1,200 @@
+Faculty_ID,Faculty_Name,Publications_Count,Conference_Presentations,Research_Funding_Amount,Patents_Filed,Patents_Granted,Journal_Impact_Factor_Avg,Year,Department,Research_Grants_Received
+FAC001,Aaron Gerrietz,3,9.11,Euro,3,0,9.4,2002,Computer Science,1156360
+FAC002,Abra Deave,6,17.86,Euro,2,0,4.5,2003,Civil,1320109
+FAC003,Ada Allawy,5,15.03,Hryvnia,3,2,9.8,2004,Electronics,962730
+FAC004,Adam Landa,8,25.06,Euro,2,1,2.2,2005,Electronics,2013807
+FAC005,Adelaide Haseman,12,3.71,Hryvnia,3,1,2,2006,Computer Science,184162
+FAC006,Adella Dallmann,7,12.46,Peso,1,0,3.7,2007,Computer Science,726469
+FAC007,Adi Selly,14,5.51,Euro,0,0,3.8,2008,Mechanical Engineering,1598675
+FAC008,Adora Neenan,9,1,Yuan Renminbi,1,2,8.1,2009,Civil,1264533
+FAC009,Ailina Bourtoumieux,20,8.86,Lek,3,1,1.2,2010,Mechanical Engineering,476623
+FAC010,Alanson Tungate,18,10.14,Yuan Renminbi,1,2,7.3,2011,Electronics,1644730
+FAC011,Alasdair Licquorish,25,8.09,Rupiah,2,2,4.6,2012,Electronics,1176047
+FAC012,Alaster Denniston,21,17.09,Pula,1,0,6.3,2013,Civil,556974
+FAC013,Aleen Fernanando,35,20.94,Rupiah,4,0,8.4,2014,Computer Science,762850
+FAC014,Aleta Wadhams,29,9.63,Rand,1,2,4.6,2015,Electronics,231476
+FAC015,Alex Clougher,32,10.66,Yuan Renminbi,3,1,2.1,2016,Mechanical Engineering,1896001
+FAC016,Alexander Gaukrodge,41,16.31,Baht,3,2,9,2017,Mechanical Engineering,2045060
+FAC017,Alexandro Tetsall,38,18.11,Yuan Renminbi,1,0,6.7,2018,Computer Science,1360275
+FAC018,Alf Fruish,75,11.69,Lek,2,0,2.8,2019,Electronics,547211
+FAC019,Alic Naile,82,15.54,Euro,3,2,2.7,2020,Electronics,1888719
+FAC020,Allyn Coniam,50,19.4,Won,2,2,9.7,2021,Computer Science,485124
+FAC021,Aloysia Jery,62,1,Ruble,1,1,3,2022,Computer Science,786880
+FAC022,Alta Conre,59,13.23,Real,5,2,7.6,2023,Computer Science,1397610
+FAC023,Alverta Killgus,70,4.74,Peso,0,2,7.6,2024,Computer Science,1881649
+FAC024,Amanda Lies,5,6.54,Pound,2,2,9.2,2002,Civil,440619
+FAC025,Anders Lessmare,9,14.51,Peso,5,2,6,2003,Electronics,1409854
+FAC026,Andrei Maddinon,6,12.71,Dram,4,1,4.8,2004,Computer Science,1630625
+FAC027,Andrey Elders,12,3.97,Ruble,2,0,3.3,2005,Computer Science,1527941
+FAC028,Anett Goldsmith,15,8.6,Krona,5,0,9.5,2006,Computer Science,1456963
+FAC029,Anett Sanzio,10,20.69,Euro,0,1,1.5,2007,Computer Science,1407640
+FAC030,Angeline Dacca,18,14,Hryvnia,3,2,4.8,2008,Mechanical Engineering,2020713
+FAC031,Annamaria Danet,11,0,Yuan Renminbi,1,2,6.8,2009,Computer Science,1441161
+FAC032,Anneliese Duckers,23,6.8,Rupiah,1,0,3.9,2010,Mechanical Engineering,832720
+FAC033,Annette Sprason,19,23.26,Dollar,4,0,4.4,2011,Computer Science,1095362
+FAC034,Antin Pettican,28,11.94,Yuan Renminbi,5,0,0.1,2012,Mechanical Engineering,1248581
+FAC035,Anton Vasishchev,25,23.51,Krona,5,1,5.3,2013,Electronics,794246
+FAC036,Anya Chipperfield,40,1.66,Pound,4,0,8.9,2014,Mechanical Engineering,1374703
+FAC037,Archy Crus,32,0,Ruble,5,0,1.3,2015,Computer Science,870129
+FAC038,Arlen Carbry,36,8.34,Peso,3,1,4.7,2016,Electronics,1399445
+FAC039,Arlie Gilbert,45,16.83,Rupiah,0,0,2.2,2017,Mechanical Engineering,1469881
+FAC040,Arlyne Bartolomucci,41,7.83,Yuan Renminbi,2,0,3.7,2018,Mechanical Engineering,994823
+FAC041,Armstrong Brennans,110,16.06,Euro,5,0,9.5,2019,Civil,797821
+FAC042,Arne Bellew,120,18.89,Euro,1,2,8.2,2020,Electronics,1123113
+FAC043,Arne Vitte,52,1,Real,3,2,1.9,2021,Computer Science,997669
+FAC044,Arney Balog,65,19.91,Yuan Renminbi,4,0,0.3,2022,Mechanical Engineering,1004224
+FAC045,Arnie Czajka,61,20.17,Ruble,1,0,7.7,2023,Electronics,1195429
+FAC046,Aubine Cescon,75,24.8,Yuan Renminbi,3,1,1.5,2024,Mechanical Engineering,902608
+FAC047,Augustine Pendell,6,15.29,Rupiah,4,1,8.2,2002,Electronics,1215674
+FAC048,Avie Caley,8,22.23,Peso,0,2,9.4,2003,Civil,381369
+FAC049,Babita Fehely,7,11.43,Rupee,5,0,9.8,2004,Electronics,912905
+FAC050,Bailey Goosnell,10,12.2,Rupee,1,2,3.7,2005,Mechanical Engineering,1222427
+FAC051,Ban Clineck,13,7.06,Yuan Renminbi,1,0,9.4,2006,Electronics,796504
+FAC052,Barclay Lethardy,11,17.34,Real,3,2,0.5,2007,Mechanical Engineering,1044766
+FAC053,Barr Trevna,15,17.6,Euro,4,0,7.4,2008,Electronics,1793963
+FAC054,Barrie Rigler,14,10.4,Dalasi,2,2,2.7,2009,Electronics,1605889
+FAC055,Bastien MacGorrie,22,14.77,Hryvnia,4,1,0,2010,Computer Science,496933
+FAC056,Bax Grinham,20,15.8,Pound,4,1,2,2011,Mechanical Engineering,703522
+FAC057,Bax Sames,26,9.37,Rupiah,4,0,5.4,2012,Electronics,1938259
+FAC058,Beatrix Kas,23,2.43,Peso,2,2,6.5,2013,Civil,899127
+FAC059,Becca Rudham,37,22.74,Dollar,2,2,6.2,2014,Computer Science,742842
+FAC060,Beltran Broe,31,2.17,Pound,0,2,6.5,2015,Electronics,1492269
+FAC061,Beltran Hegden,34,4.49,Euro,2,2,8.6,2016,Mechanical Engineering,1152592
+FAC062,Benjamen Kaplin,43,10.91,Lek,4,0,4.3,2017,Computer Science,1862872
+FAC063,Bent Yakuntzov,40,19.66,Euro,5,1,2.6,2018,Mechanical Engineering,978205
+FAC064,Berkly Gallafant,140,1.4,Shekel,0,0,1.7,2019,Electronics,302253
+FAC065,Bill Wilder,150,3.2,Dirham,4,0,8.1,2020,Electronics,1372233
+FAC066,Binnie Sillito,54,14.26,Peso,3,1,8,2021,Mechanical Engineering,1728504
+FAC067,Blaire Berndsen,68,5,Peso,2,2,1.8,2022,Civil,1130183
+FAC068,Blayne Stracey,63,20.43,Yuan Renminbi,3,2,5.9,2023,Electronics,845190
+FAC069,Blondell Glanfield,72,6.29,Peso,2,2,0.1,2024,Computer Science,770276
+FAC070,Blondell Hanson,4,23.77,Rupiah,2,0,6.6,2002,Electronics,2034226
+FAC071,Bobbe Giggs,7,13.49,Shekel,4,1,1.6,2003,Mechanical Engineering,993442
+FAC072,Bogart Cervantes,9,18.63,Yuan Renminbi,0,0,2.7,2004,Civil,329582
+FAC073,Brande Beilby,11,22.49,Yuan Renminbi,2,2,1.3,2005,Computer Science,933652
+FAC074,Brande Guild,12,0,Rupiah,3,2,0.4,2006,Electronics,775016
+FAC075,Breanne MacCaffrey,8,5.77,Dollar,5,0,5.7,2007,Mechanical Engineering,2000106
+FAC076,Bren Maccrae,17,21.46,Yen,4,2,8.7,2008,Mechanical Engineering,670772
+FAC077,Brian Rummings,10,0,Baht,5,2,5,2009,Electronics,1127005
+FAC078,Briggs Gyngyll,21,3.46,Yuan Renminbi,2,0,5.2,2010,Mechanical Engineering,1834512
+FAC079,Brinna Fowler,19,5.26,Yuan Renminbi,5,1,6.4,2011,Electronics,1115784
+FAC080,Britteny Tutsell,24,24.54,Ruble,3,0,5.5,2012,Electronics,680910
+FAC081,Broddie D'Angeli,27,18.37,Rupiah,3,0,7.4,2013,Mechanical Engineering,1598262
+FAC082,Bronson Likely,38,16.57,Tenge,2,2,2.5,2014,Mechanical Engineering,1781203
+FAC083,Burgess Tesoe,30,24.03,Rupiah,1,1,3,2015,Electronics,1618705
+FAC084,Cale Drohane,39,13.74,Ringgit,4,1,8.1,2016,Electronics,946113
+FAC085,Cam Kynd,46,21.97,Real,3,1,3.5,2017,Mechanical Engineering,2055516
+FAC086,Camey Dinesen,42,6.03,Quetzal,2,1,5.7,2018,Electronics,1439141
+FAC087,Carey Dorling,160,21.71,Dinar,3,1,4.2,2019,Electronics,351232
+FAC088,Carina Huet,170,7.31,Lev,1,0,3.3,2020,Mechanical Engineering,668062
+FAC089,Carleton Beggin,55,11.17,Real,0,1,8.4,2021,Computer Science,1539145
+FAC090,Carleton Heis,66,19.14,Peso,2,2,3.2,2022,Electronics,222520
+FAC091,Carolyn Guiso,60,9.89,Peso,3,1,4.9,2023,Civil,283117
+FAC092,Casar Bernardt,80,2.69,Baht,3,1,1.2,2024,Electronics,787359
+FAC093,Caterina Di Frisco,7,21.2,Real,1,1,4.1,2002,Electronics,1244789
+FAC094,Catherin Tossell,10,2.94,Rupiah,3,0,8.2,2003,Computer Science,1605829
+FAC095,Cathi Rosenbaum,8,12.97,Sol,2,2,6.7,2004,Computer Science,652726
+FAC096,Catlin Birdwistle,13,23,Euro,3,0,4.1,2005,Computer Science,815004
+FAC097,Cayla Davidovici,16,1.91,Euro,1,0,2.2,2006,Computer Science,2012704
+FAC098,Charley Sancias,9,7.57,Lari,1,0,4.6,2007,Computer Science,905928
+FAC099,Chelsey Eddolls,20,24.29,Real,5,1,9.9,2008,Mechanical Engineering,811701
+FAC100,Chere Follacaro,12,4.23,Boliviano,4,1,2.1,2009,Mechanical Engineering,355512
+FAC101,Cherianne Sier,25,9.11,Euro,3,0,9.4,2010,Computer Science,
+FAC102,Chico Mungane,22,17.86,Euro,2,0,4.5,2011,Electronics,
+FAC103,Chilton Assur,30,15.03,Hryvnia,3,2,9.8,2012,Computer Science,
+FAC104,Christel Devonshire,28,25.06,Euro,2,1,2.2,2013,Mechanical Engineering,
+FAC105,Christiano Egginton,42,3.71,Hryvnia,3,1,2,2014,Computer Science,
+FAC106,Christy Spollen,33,12.46,Peso,1,0,3.7,2015,Computer Science,
+FAC107,Chrisy Herche,35,5.51,Euro,0,0,3.8,2016,Electronics,
+FAC108,Chucho Muscroft,48,1,Yuan Renminbi,1,2,8.1,2017,Mechanical Engineering,
+FAC109,Cindie Klosterman,44,8.86,Lek,3,1,1.2,2018,Civil,
+FAC110,Claiborne Bucknall,135,10.14,Yuan Renminbi,1,2,7.3,2019,Electronics,
+FAC111,Claus Pennycock,145,8.09,Rupiah,2,2,4.6,2020,Computer Science,
+FAC112,Clem Grey,58,17.09,Pula,1,0,6.3,2021,Civil,
+FAC113,Coralie Tissington,72,20.94,Rupiah,4,0,8.4,2022,Computer Science,
+FAC114,Corina Gerard,67,9.63,Rand,1,2,4.6,2023,Electronics,
+FAC115,Cornelius Chaim,85,10.66,Yuan Renminbi,3,1,2.1,2024,Computer Science,
+FAC116,Cornelius Dallyn,6,16.31,Baht,3,2,9,2002,Civil,
+FAC117,Cosetta Simmank,11,18.11,Yuan Renminbi,1,0,6.7,2003,Mechanical Engineering,
+FAC118,Cosme Fley,9,11.69,Lek,2,0,2.8,2004,Civil,
+FAC119,Creigh Endrighi,14,15.54,Euro,3,2,2.7,2005,Computer Science,
+FAC120,Cris Rubrow,17,19.4,Won,2,2,9.7,2006,Electronics,
+FAC121,Crista Blaszczynski,12,1,Ruble,1,1,3,2007,Computer Science,
+FAC122,Cyb Grinaway,22,13.23,Real,5,2,7.6,2008,Mechanical Engineering,
+FAC123,Dacy Gronowe,15,4.74,Peso,0,2,7.6,2009,Mechanical Engineering,
+FAC124,Dag Skerman,27,6.54,Pound,2,2,9.2,2010,Mechanical Engineering,
+FAC125,Dalenna Guisby,24,14.51,Peso,5,2,6,2011,Civil,
+FAC126,Dannel Jackways,32,12.71,Dram,4,1,4.8,2012,Electronics,
+FAC127,Darcy Berrygun,31,3.97,Ruble,2,0,3.3,2013,Electronics,
+FAC128,D'arcy Brahmer,46,8.6,Krona,5,0,9.5,2014,Computer Science,
+FAC129,Daryl Towne,37,20.69,Euro,0,1,1.5,2015,Computer Science,
+FAC130,Davina Strickland,40,14,Hryvnia,3,2,4.8,2016,Electronics,
+FAC131,Deane Grabban,50,0,Yuan Renminbi,1,2,6.8,2017,Mechanical Engineering,
+FAC132,Debi Scinelli,48,6.8,Rupiah,1,0,3.9,2018,Computer Science,
+FAC133,Delila Loukes,155,23.26,Dollar,4,0,4.4,2019,Mechanical Engineering,
+FAC134,Delora Cudbertson,165,11.94,Yuan Renminbi,5,0,0.1,2020,Civil,
+FAC135,Desmond Dalbey,63,23.51,Krona,5,1,5.3,2021,Mechanical Engineering,
+FAC136,Desmund Nazaret,78,1.66,Pound,4,0,8.9,2022,Electronics,
+FAC137,Dew Tebbs,71,0,Ruble,5,0,1.3,2023,Mechanical Engineering,
+FAC138,Diahann Ollerenshaw,90,8.34,Peso,3,1,4.7,2024,Electronics,
+FAC139,Dietrich Ianniello,3,16.83,Rupiah,0,0,2.2,2002,Mechanical Engineering,
+FAC140,Dill Bottini,6,7.83,Yuan Renminbi,2,0,3.7,2003,Mechanical Engineering,
+FAC141,Dino Rockell,5,16.06,Euro,5,0,9.5,2004,Computer Science,
+FAC142,Dody Bool,8,18.89,Euro,1,2,8.2,2005,Civil,
+FAC143,Domini O' Meara,12,1,Real,3,2,1.9,2006,Mechanical Engineering,
+FAC144,Dominique Cheales,7,19.91,Yuan Renminbi,4,0,0.3,2007,Mechanical Engineering,
+FAC145,Donnie D'Costa,14,20.17,Ruble,1,0,7.7,2008,Mechanical Engineering,
+FAC146,Doralyn Balston,9,24.8,Yuan Renminbi,3,1,1.5,2009,Civil,
+FAC147,Doro Hiddersley,20,15.29,Rupiah,4,1,8.2,2010,Computer Science,
+FAC148,Dorthea Pamphilon,18,22.23,Peso,0,2,9.4,2011,Mechanical Engineering,
+FAC149,Dotti Jovanovic,25,11.43,Rupee,5,0,9.8,2012,Computer Science,
+FAC150,Doug Youings,21,12.2,Rupee,1,2,3.7,2013,Mechanical Engineering,
+FAC151,Drake Riggoll,35,7.06,Yuan Renminbi,1,0,9.4,2014,Electronics,
+FAC152,Dru Hovell,29,17.34,Real,3,2,0.5,2015,Civil,
+FAC153,Duff McCrea,32,17.6,Euro,4,0,7.4,2016,Mechanical Engineering,
+FAC154,Dulcie Cumpsty,41,10.4,Dalasi,2,2,2.7,2017,Electronics,
+FAC155,Dynah Kubasek,38,14.77,Hryvnia,4,1,0,2018,Civil,
+FAC156,Earlie Lovick,75,15.8,Pound,4,1,2,2019,Computer Science,
+FAC157,Edgar Gantz,82,9.37,Rupiah,4,0,5.4,2020,Computer Science,
+FAC158,Eduino Deadman,50,2.43,Peso,2,2,6.5,2021,Mechanical Engineering,
+FAC159,Elana Jellis,62,22.74,Dollar,2,2,6.2,2022,Electronics,
+FAC160,Eldredge Strond,59,2.17,Pound,0,2,6.5,2023,Computer Science,
+FAC161,Eleanor Redler,70,4.49,Euro,2,2,8.6,2024,Civil,
+FAC162,Elinore Ledwich,5,10.91,Lek,4,0,4.3,2002,Electronics,
+FAC163,Elizabeth McGoogan,9,19.66,Euro,5,1,2.6,2003,Civil,
+FAC164,Ellen Swinglehurst,6,1.4,Shekel,0,0,1.7,2004,Civil,
+FAC165,Elli Stealey,12,3.2,Dirham,4,0,8.1,2005,Computer Science,
+FAC166,Emery Bluck,15,14.26,Peso,3,1,8,2006,Computer Science,
+FAC167,Emmalyn Glanester,10,5,Peso,2,2,1.8,2007,Electronics,
+FAC168,Emmet Romagosa,18,20.43,Yuan Renminbi,3,2,5.9,2008,Computer Science,
+FAC169,Englebert Ellwand,11,6.29,Peso,2,2,0.1,2009,Computer Science,
+FAC170,Ephrayim Doddemeade,23,23.77,Rupiah,2,0,6.6,2010,Computer Science,
+FAC171,Erina Nevill,19,13.49,Shekel,4,1,1.6,2011,Mechanical Engineering,
+FAC172,Ermengarde Schukert,28,18.63,Yuan Renminbi,0,0,2.7,2012,Electronics,
+FAC173,Errick Sherel,25,22.49,Yuan Renminbi,2,2,1.3,2013,Civil,
+FAC174,Esme Yanyshev,40,0,Rupiah,3,2,0.4,2014,Computer Science,
+FAC175,Esra Chasemore,32,5.77,Dollar,5,0,5.7,2015,Computer Science,
+FAC176,Essie Crispe,36,21.46,Yen,4,2,8.7,2016,Civil,
+FAC177,Etty Doyle,45,0,Baht,5,2,5,2017,Mechanical Engineering,
+FAC178,Evania Parkins,41,3.46,Yuan Renminbi,2,0,5.2,2018,Electronics,
+FAC179,Everett Shankland,110,5.26,Yuan Renminbi,5,1,6.4,2019,Mechanical Engineering,
+FAC180,Fanchon Kirdsch,120,24.54,Ruble,3,0,5.5,2020,Electronics,
+FAC181,Farra Burth,52,18.37,Rupiah,3,0,7.4,2021,Civil,
+FAC182,Felizio Greenrodd,65,16.57,Tenge,2,2,2.5,2022,Computer Science,
+FAC183,Fey Willingham,61,24.03,Rupiah,1,1,3,2023,Computer Science,
+FAC184,Filberte Jeanel,75,13.74,Ringgit,4,1,8.1,2024,Electronics,
+FAC185,Filippa Itzkov,6,21.97,Real,3,1,3.5,2002,Electronics,
+FAC186,Flin Ricciardelli,8,6.03,Quetzal,2,1,5.7,2003,Electronics,
+FAC187,Florenza Schneider,7,21.71,Dinar,3,1,4.2,2004,Civil,
+FAC188,Flynn Bocke,10,7.31,Lev,1,0,3.3,2005,Electronics,
+FAC189,Fran Boundley,13,11.17,Real,0,1,8.4,2006,Civil,
+FAC190,Frankie Phipson,11,19.14,Peso,2,2,3.2,2007,Civil,
+FAC191,Freddie Ullett,15,9.89,Peso,3,1,4.9,2008,Computer Science,
+FAC192,Freddy Bangle,14,2.69,Baht,3,1,1.2,2009,Mechanical Engineering,
+FAC193,Frederigo Westmerland,22,21.2,Real,1,1,4.1,2010,Computer Science,
+FAC194,Freeman Igounet,20,2.94,Rupiah,3,0,8.2,2011,Mechanical Engineering,
+FAC195,Galen Burgett,26,12.97,Sol,2,2,6.7,2012,Mechanical Engineering,
+FAC196,Garfield Pauel,23,23,Euro,3,0,4.1,2013,Computer Science,
+FAC197,Garrik Parkhouse,37,1.91,Euro,1,0,2.2,2014,Mechanical Engineering,
+FAC198,Gavrielle Ivakin,31,7.57,Lari,1,0,4.6,2015,Computer Science,
+FAC199,Gay Low,34,24.29,Real,5,1,9.9,2016,Electronics,
